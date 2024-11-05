@@ -1,0 +1,4 @@
+Run the Application
+The server was started using the command:
+node index.js
+The application was accessed in a web browser at http://localhost:3002, where users can enter a city name to view current weather data.
