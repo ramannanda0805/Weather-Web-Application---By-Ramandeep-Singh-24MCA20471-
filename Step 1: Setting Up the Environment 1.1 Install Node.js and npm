@@ -1,0 +1,10 @@
+To install Node.js and npm on Fedora, the following commands were executed:
+# Update the system
+sudo dnf update
+
+# Install Node.js and npm
+sudo dnf install nodejs npm
+
+# Verify the installation
+node -v
+npm -v
